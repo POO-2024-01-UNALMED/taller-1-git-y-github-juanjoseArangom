@@ -1,1 +1,3 @@
 Juan José Arango, 19 años, en esta asignatura espero poder aprender mucho sobre el paradigma de la programación orientada a objetos
+No se podía hacer un commit porque la carpeta estaba vacía
+Es importante no modificar dos archivos al tiempo para evitar inconsistencias, generar problemas o posiblemente perder datos.
